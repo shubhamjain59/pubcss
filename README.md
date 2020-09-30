@@ -2,7 +2,7 @@
 
 PubCSS is a library of CSS stylesheets and HTML templates for formatting academic publications for print and the web.
 
-Currently, the following formats are supported:
+Currently, the following formats are supported.
 
 * [ACM SIG Proceedings](http://www.acm.org/sigs/publications/proceedings-templates)
 * [ACM SIGCHI Conference Papers](http://www.sigchi.org/publications/chipubform)

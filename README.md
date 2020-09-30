@@ -124,9 +124,9 @@ Utility classes are also available to modify layout and counter behavior.
 * `col-break-before`: force column break before element
 * `col-break-after`: force column break after element
 * `page-break-before`: force page break before element
-* `page-break-after`: force page break after element
-* `counter-skip`: do not count this header
-* `counter-reset`: reset counter to 0
+* `page-break-after`: force page break after element.
+* `counter-skip`: do not count this header.
+* `counter-reset`: reset counter to 0.
 
 ## Customization
 
